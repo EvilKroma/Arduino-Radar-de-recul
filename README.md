@@ -1,6 +1,6 @@
 # Radar de Recul avec Capteur à Ultrasons et LEDs
 
-Ce projet Arduino utilise un capteur à ultrasons (HC-SR04) pour mesurer la distance entre un objet et le capteur, et allume différentes LEDs en fonction de cette distance. Le projet simule un radar de recul avec des LEDs indiquant si l'objet est proche ou loin, afin de faciliter le stationnement.
+Ce projet Arduino utilise un capteur à ultrasons (HC-SR04) pour mesurer la distance entre un objet et le capteur, et allume différentes LEDs en fonction de cette distance. Le projet simule un radar de recul avec des LEDs indiquant si l'objet est proche ou loin.
 
 ## Composants nécessaires
 
