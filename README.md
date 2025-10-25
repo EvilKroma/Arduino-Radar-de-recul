@@ -32,3 +32,7 @@ Voici comment connecter les composants à l'Arduino :
 - **LED rouge**
   - Anode (patte longue) → Pin 4 de l'Arduino
   - Cathode (patte courte) → Résistance 220Ω → GND
+
+Projet réalisé par Dorian DENEUCHATEL, étudiant à l'école d’ingénieur ESIEE Paris.
+
+Ce projet est sous licence MIT – libre d’utilisation et de modification.
